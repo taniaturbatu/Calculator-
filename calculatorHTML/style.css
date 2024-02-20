@@ -1,0 +1,24 @@
+body{
+     background-color: rgb(243, 97, 121);
+}
+.wrapper{
+     height: 300px;
+     width: 400px;
+     border: solid 1px white;
+     border-radius: 10px;
+     padding: 50px;
+     margin: 50px auto;
+     background-color: pink;
+}
+
+.container{
+     margin-top: 30px;
+}
+.title{
+     font-weight: bold;
+     margin-bottom: 10px;
+}
+.inputContainer{
+     display: flex;
+     align-items: center;
+}
